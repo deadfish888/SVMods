@@ -1,0 +1,19 @@
+{
+  "DisableEatAndDrinkConfirmation": false,
+  "EatAndDrinkSpeed": 1.5,
+  "FishingSpeed": 1.5,
+  "HarvestSpeed": 1.5,
+  "HorseFluteSpeed": 1.5,
+  "MilkSpeed": 1.5,
+  "MountOrDismountSpeed": 1.5,
+  "ShearSpeed": 1.5,
+  "UseSlingshotSpeed": 1.0,
+  "ToolSwingSpeed": 2.0,
+  "WeaponSwingSpeed": 1.0,
+  "BreakGeodeSpeed": 3.0,
+  "CasinoSlotsSpeed": 3.0,
+  "PamBusSpeed": 3.0,
+  "TreeFallSpeed": 1.0,
+  "TitleMenuTransitionSpeed": 10.0,
+  "LoadGameBlinkSpeed": 2.0
+}

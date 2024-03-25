@@ -1,0 +1,13 @@
+{
+   "Name": "Fisharia anime portraits Mods", // https://www.nexusmods.com/stardewvalley/mods/10442
+   "Author": "Kareeeee",
+   "Version": "0.1",
+   "Description": "Replaces the Vanilla Portraits with Fisharia Anime Portraits.",
+   "UniqueID": "Kareeeee",
+   "MinimumApiVersion": "3.9.0", // https://smapi.io/
+   "UpdateKeys": ["Nexus:10442"], 
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // https://www.nexusmods.com/stardewvalley/mods/1915
+      "MinimumVersion": "1.20.0"
+   }
+}
